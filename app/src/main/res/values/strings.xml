@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">testing</string>
+
+    <string-array name="items">
+        <item>Kuala Lumpur</item>
+        <item>Johor</item>
+        <item>Penang</item>
+    </string-array>
+</resources>
